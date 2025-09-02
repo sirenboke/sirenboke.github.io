@@ -1,6 +1,7 @@
 {
     "title":"Blog Title",
     "subTitle":"Blog description",
+    "homeUrl":"https://sirenboke.github.io",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "allHead":"<script src='https://sirenboke.github.io/plugins/GmeekVercount.js'></script>"
